@@ -62,6 +62,7 @@ _unreleased_
 ## Beelink GTR9 Pro
 
 - [ServeTheHome](https://www.servethehome.com/beelink-gtr9-pro-review-amd-ryzen-ai-max-395-system-with-128gb-and-dual-10gbe/) (Review, Disassembling, Benchmark)
+- [YouTube / ServeTheHome](https://www.youtube.com/watch?v=pHB3-9AG6tw) (Review, Disassembling, LLM, Benchmark)
 - [YouTube / ETA Prime](https://www.youtube.com/watch?v=t6c5RZqo6Do) (Review, Disassembling, Benchmark)
 
 ## Beelink Ai Mini
