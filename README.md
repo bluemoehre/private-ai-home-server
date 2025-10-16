@@ -19,6 +19,7 @@ Also, make sure to support the sources - they did a great job!
 | **Apple**                                    |                                               |        |           |                |           |                       |
 | _[Apple Mac Mini][apple-mini-m5-pro]_        | [M5 Pro][apple-mini-m5-pro]                   |   ?    | ~348GB/s  |       -        |    10G    |        0db / ?        |
 | [Apple Mac Studio][apple-studio-m4-max]      | [M4 Max][apple-studio-m4-max]                 | ≤128GB |  546GB/s  |       -        |    10G    |      0db / 44db       |
+|                                              |                                               |        |           |                |           |                       |
 | **AMD**                                      |                                               |        |           |                |           |                       |
 | _[Beelink AI Mini][beelink-ai-mini]_         | [Ryzen AI Max+ 395][amd-strix-halo]           | ≤128GB |  256GB/s  |       ?        |     ?     |           ?           |
 | [Beelink GTR9 Pro][beelink-gtr9-pro]         | [Ryzen AI Max+ 395][amd-strix-halo]           | ≤128GB |  256GB/s  |       -        | 10G (2x)  |           ?           |
@@ -27,9 +28,11 @@ Also, make sure to support the sources - they did a great job!
 | [GMKtec EVO-X2][gmktec-evo-x2]               | [Ryzen AI Max+ 395][amd-strix-halo]           | ≤128GB |  256GB/s  |       -        |   2.5G    |      27dB / 55dB      |
 | [HP Z2 Mini G1a Workstation][hp-z2-mini]     | [Ryzen AI Max+ 395][amd-strix-halo]           | ≤128GB |  256GB/s  |       -        |   2.5G    |      32dB / 67dB      |
 | [Minisforum MS-S1 Max][minisforum-s1max]     | [Ryzen AI Max+ 395][amd-strix-halo]           | ≤128GB |  256GB/s  | 4.0 / x4 / x16 | 10G (2x)  |           ?           |
+|                                              |                                               |        |           |                |           |                       |
 | **NVIDIA**                                   |                                               |        |           |                |           |                       |
 | [Dell Pro Max][dell-pro-max]                 | [Grace Blackell GB10][nvidia-grace-blackwell] | ≤128GB |  273GB/s  |       -        | 200G (2x) |           ?           |
 | [NVIDIA DGX Spark][nvidia-dgx-spark]         | [Grace Blackell GB10][nvidia-grace-blackwell] | ≤128GB |  273GB/s  |       -        | 200G (2x) |           ?           |
+|                                              |                                               |        |           |                |           |                       |
 
 <!-- npus -->
 
