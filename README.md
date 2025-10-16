@@ -101,4 +101,5 @@ _unreleased_
 ## NVIDIA DGX Spark
 
 - [ServeTheHome](https://www.servethehome.com/nvidia-dgx-spark-review-the-gb10-machine-is-so-freaking-cool/) (Review, Disassembling, LLM, Benchmark)
+- [YouTube / Digital Spaceport](https://www.youtube.com/watch?v=md6a4ENM9pg) (LLM, Benchmark)
 - [YouTube / ServeTheHome](https://www.youtube.com/watch?v=rKOoOmIpK3I) (Review, LLM, Benchmark)
