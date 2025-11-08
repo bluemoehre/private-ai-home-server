@@ -100,6 +100,10 @@ _unreleased_
 - [YouTube / Jim's Garage](https://www.youtube.com/watch?v=LbXwXnXZNzs) (Review, Disassembling, LLM, Benchmark)
 - [YouTube / Level1Techs](https://www.youtube.com/watch?v=TvNYpyA1ZGk) (Review, Disassembling, LLM, Benchmark)
 - [YouTube / NASCompares](https://www.youtube.com/watch?v=8Ww2bWpVi4Q) (Review, Disassembling, Benchmark)
+- [YouTube / mydealz](https://www.youtube.com/watch?v=iBMA0c6ig2I) (Review, Benchmark, Power)
+  - [gpt-oss-20b](https://www.youtube.com/watch?v=iBMA0c6ig2I&t=2242s)
+  - [gpt-oss-120b](https://www.youtube.com/watch?v=iBMA0c6ig2I&t=2413s)
+  - [ollama-70b](https://www.youtube.com/watch?v=iBMA0c6ig2I&t=2355s)
 
 ## NVIDIA DGX Spark
 
