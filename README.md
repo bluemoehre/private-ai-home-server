@@ -61,12 +61,15 @@ _unreleased_
 
 - [Github / ggerganov](https://github.com/ggml-org/llama.cpp/discussions/4167) (LLM, Benchmark)
 - [YouTube / Alex Ziskind](https://www.youtube.com/watch?v=ZmY35-ifJuo) (LLM, Benchmark)
+- [YouTube / Alex Ziskind](https://www.youtube.com/watch?v=zaLiP1SD2sU) (LLM, Benchmark)
 
 ## Beelink GTR9 Pro
 
 - [ServeTheHome](https://www.servethehome.com/beelink-gtr9-pro-review-amd-ryzen-ai-max-395-system-with-128gb-and-dual-10gbe/) (Review, Disassembling, Benchmark)
 - [YouTube / ServeTheHome](https://www.youtube.com/watch?v=pHB3-9AG6tw) (Review, Disassembling, LLM, Benchmark)
 - [YouTube / ETA Prime](https://www.youtube.com/watch?v=t6c5RZqo6Do) (Review, Disassembling, Benchmark)
+- [YouTube / Alex Ziskind](https://www.youtube.com/watch?v=zaLiP1SD2sU) (LLM, Benchmark)
+  - [Comparison with Apple Studio M3 Ultra](https://youtu.be/zaLiP1SD2sU?t=216)
 
 ## Beelink Ai Mini
 
