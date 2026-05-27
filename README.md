@@ -17,8 +17,10 @@ Also, make sure to support the sources - they did a great job!
 | Name                                         | Processor                                     | Memory | Bandwidth |  PCIe (v/l/m)  | Ethernet  | Fan Noise (idle/load) |
 | -------------------------------------------- | --------------------------------------------- | :----: | :-------: | :------------: | :-------: | :-------------------: |
 | **Apple**                                    |                                               |        |           |                |           |                       |
-| _[Apple Mac Mini][apple-mini-m5-pro]_        | [M5 Pro][apple-mini-m5-pro]                   |   ?    | ~348GB/s  |       -        |    10G    |        0db / ?        |
+| _[Apple Mac Studio][apple-studio-m5-ultra]_  | [M5 Ultra][apple-studio-m5-ultra]             | ≤512GB |  1228GB/s |       -        |    10G    |        0db / ?        |
+| _[Apple Mac Studio][apple-studio-m5-max]_    | [M5 Max][apple-studio-m5-max]                 | ≤128GB |  614GB/s  |       -        |    10G    |        0db / ?        |
 | [Apple Mac Studio][apple-studio-m4-max]      | [M4 Max][apple-studio-m4-max]                 | ≤128GB |  546GB/s  |       -        |    10G    |      0db / 44db       |
+| _[Apple Mac Mini][apple-mini-m5-pro]_        | [M5 Pro][apple-mini-m5-pro]                   | ≤96GB  |  307GB/s  |       -        |    10G    |        0db / ?        |
 |                                              |                                               |        |           |                |           |                       |
 | **AMD**                                      |                                               |        |           |                |           |                       |
 | _[Beelink AI Mini][beelink-ai-mini]_         | [Ryzen AI Max+ 395][amd-strix-halo]           | ≤128GB |  256GB/s  |       ?        |     ?     |           ?           |
@@ -39,6 +41,8 @@ Also, make sure to support the sources - they did a great job!
 [amd-strix-halo]: https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-max-plus-395.html
 [apple-studio-m4-max]: https://www.apple.com/shop/buy-mac/mac-studio/apple-m4-max-with-14-core-cpu-32-core-gpu-16-core-neural-engine-36gb-memory-512gb
 [apple-mini-m5-pro]: https://www.apple.com/shop/buy-mac/mac-mini/apple-m5-pro-chip-with-12-core-cpu-16-core-gpu-24gb-memory-512gb
+[apple-studio-m5-max]: https://www.apple.com/shop/buy-mac/mac-studio/apple-m5-max-chip-18-core-cpu-40-core-gpu-128gb-memory-1tb-storage
+[apple-studio-m5-ultra]: https://www.apple.com/shop/buy-mac/mac-studio/apple-m5-ultra-chip-36-core-cpu-80-core-gpu-512gb-memory-2tb-storage
 [nvidia-grace-blackwell]: https://www.nvidia.com/en-us/data-center/technologies/blackwell-architecture/
 
 <!-- products -->
@@ -53,9 +57,17 @@ Also, make sure to support the sources - they did a great job!
 [minisforum-s1max]: https://minisforumpc.eu/products/minisforum-ms-s1-max-mini-pc
 [nvidia-dgx-spark]: https://www.nvidia.com/en-us/products/workstations/dgx-spark/
 
+## Apple Mac Studio M5 Ultra
+
+_unreleased_ (ETA: October 2026: 256GB Edition)
+
+## Apple Mac Studio M5 Max
+
+_unreleased_ (October 2026)
+
 ## Apple Mac Mini M5 Pro
 
-_unreleased_
+_unreleased_ (June 2026)
 
 ## Apple Mac Studio M4 Max
 
