@@ -28,6 +28,7 @@ Also, make sure to support the sources - they did a great job!
 | [Corsair AI Workstation 300][corsair-ai-300] | [Ryzen AI Max+ 395][amd-strix-halo]            | ≤128GB |  256GB/s  |       ?        |   2.5G    |           ?           |
 | [Framework Desktop][framework-desktop]       | [Ryzen AI Max+ 395][amd-strix-halo]            | ≤128GB |  256GB/s  | 4.0 / x4 / x4  |    5G     |      0dB / 48dB       |
 | [GMKtec EVO-X2][gmktec-evo-x2]               | [Ryzen AI Max+ 395][amd-strix-halo]            | ≤128GB |  256GB/s  |       -        |   2.5G    |      27dB / 55dB      |
+| [GMKtec EVO-X3][gmktec-evo-x3]               | [Ryzen AI Max+ 395][amd-strix-halo]            | ≤128GB |  256GB/s  |       -        |     ?     |           ?           |
 | [HP Z2 Mini G1a Workstation][hp-z2-mini]     | [Ryzen AI Max+ 395][amd-strix-halo]            | ≤128GB |  256GB/s  |       -        |   2.5G    |      32dB / 67dB      |
 | [Minisforum MS-S1 Max][minisforum-s1max]     | [Ryzen AI Max+ 395][amd-strix-halo]            | ≤128GB |  256GB/s  | 4.0 / x4 / x16 | 10G (2x)  |           ?           |
 |                                              |                                                |        |           |                |           |                       |
@@ -53,6 +54,7 @@ Also, make sure to support the sources - they did a great job!
 [dell-pro-max]: https://www.dell.com/en-us/lp/dell-pro-max-nvidia-ai-dev-premier
 [framework-desktop]: https://frame.work/en/en/desktop
 [gmktec-evo-x2]: https://www.gmktec.com/products/amd-ryzen%E2%84%A2-ai-max-395-evo-x2-ai-mini-pc
+[gmktec-evo-x3]: https://de.gmktec.com/products/gmktec-evo-x3-amd-ryzen%E2%84%A2-ai-max-395-mini-pc
 [hp-z2-mini]: https://www.hp.com/us-en/workstations/z2-mini-a.html
 [minisforum-s1max]: https://minisforumpc.eu/products/minisforum-ms-s1-max-mini-pc
 [nvidia-dgx-spark]: https://www.nvidia.com/en-us/products/workstations/dgx-spark/
