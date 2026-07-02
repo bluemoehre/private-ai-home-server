@@ -33,6 +33,7 @@ Also, make sure to support the sources - they did a great job!
 | [Minisforum MS-S1 Max][minisforum-s1max]     | [Ryzen AI Max+ 395][amd-strix-halo]            | ≤128GB |  256GB/s  | 4.0 / x4 / x16 | 10G (2x)  |           ?           |
 |                                              |                                                |        |           |                |           |                       |
 | **NVIDIA**                                   |                                                |        |           |                |           |                       |
+| [ASUS Ascent GX10][asus-ascent-gx10]         | [Grace Blackwell GB10][nvidia-grace-blackwell] | ≤128GB |  273GB/s  |       -        | 10G / 200G (2x) |           ?           |
 | [Dell Pro Max][dell-pro-max]                 | [Grace Blackwell GB10][nvidia-grace-blackwell] | ≤128GB |  273GB/s  |       -        | 200G (2x) |           ?           |
 | [NVIDIA DGX Spark][nvidia-dgx-spark]         | [Grace Blackwell GB10][nvidia-grace-blackwell] | ≤128GB |  273GB/s  |       -        | 200G (2x) |           ?           |
 |                                              |                                                |        |           |                |           |                       |
@@ -48,6 +49,7 @@ Also, make sure to support the sources - they did a great job!
 
 <!-- products -->
 
+[asus-ascent-gx10]: https://www.asus.com/de/networking-iot-servers/desktop-ai-supercomputer/ultra-small-ai-supercomputers/asus-ascent-gx10/
 [beelink-ai-mini]: https://x.com/Beelinkofficial/status/1920082850311029142
 [beelink-gtr9-pro]: https://www.bee-link.com/en/products/beelink-gtr9-pro-amd-ryzen-ai-max-395
 [corsair-ai-300]: https://www.corsair.com/us/en/p/gaming-computers/cs-9080002-na/corsair-ai-workstation-300
