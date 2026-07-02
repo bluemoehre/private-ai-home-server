@@ -17,7 +17,7 @@ Also, make sure to support the sources - they did a great job!
 | Name                                         | Processor                                     | Memory | Bandwidth |  PCIe (v/l/m)  | Ethernet  | Fan Noise (idle/load) |
 | -------------------------------------------- | ---------------------------------------------- | :----: | :-------: | :------------: | :-------: | :-------------------: |
 | **Apple**                                    |                                                |        |           |                |           |                       |
-| _[Apple Mac Studio][apple-studio-m5-ultra]_  | [M5 Ultra][apple-studio-m5-ultra]              | ≤512GB |  1228GB/s |       -        |    10G    |        0db / ?        |
+| _[Apple Mac Studio][apple-studio-m5-ultra]_  | [M5 Ultra][apple-studio-m5-ultra]              | ≤768GB |  1228GB/s |       -        |    10G    |        0db / ?        |
 | _[Apple Mac Studio][apple-studio-m5-max]_    | [M5 Max][apple-studio-m5-max]                  | ≤128GB |  614GB/s  |       -        |    10G    |        0db / ?        |
 | [Apple Mac Studio][apple-studio-m4-max]      | [M4 Max][apple-studio-m4-max]                  | ≤128GB |  546GB/s  |       -        |    10G    |      0db / 44db       |
 | _[Apple Mac Mini][apple-mini-m5-pro]_        | [M5 Pro][apple-mini-m5-pro]                    | ≤96GB  |  307GB/s  |       -        |    10G    |        0db / ?        |
