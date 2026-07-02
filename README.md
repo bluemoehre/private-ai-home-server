@@ -28,7 +28,7 @@ Also, make sure to support the sources - they did a great job!
 | [Corsair AI Workstation 300][corsair-ai-300] | [Ryzen AI Max+ 395][amd-strix-halo]            | ≤128GB |  256GB/s  |       ?        |   2.5G    |           ?           |
 | [Framework Desktop][framework-desktop]       | [Ryzen AI Max+ 395][amd-strix-halo]            | ≤128GB |  256GB/s  | 4.0 / x4 / x4  |    5G     |      0dB / 48dB       |
 | [GMKtec EVO-X2][gmktec-evo-x2]               | [Ryzen AI Max+ 395][amd-strix-halo]            | ≤128GB |  256GB/s  |       -        |   2.5G    |      27dB / 55dB      |
-| [GMKtec EVO-X3][gmktec-evo-x3]               | [Ryzen AI Max+ 395][amd-strix-halo]            | ≤128GB |  256GB/s  |       -        |     ?     |           ?           |
+| [GMKtec EVO-X3][gmktec-evo-x3]               | [Ryzen AI Max+ 395][amd-strix-halo]            | ≤128GB |  256GB/s  | 4.0 / x4 / OCuLink |   2.5G    |           ?           |
 | [HP Z2 Mini G1a Workstation][hp-z2-mini]     | [Ryzen AI Max+ 395][amd-strix-halo]            | ≤128GB |  256GB/s  |       -        |   2.5G    |      32dB / 67dB      |
 | [Minisforum MS-S1 Max][minisforum-s1max]     | [Ryzen AI Max+ 395][amd-strix-halo]            | ≤128GB |  256GB/s  | 4.0 / x4 / x16 | 10G (2x)  |           ?           |
 |                                              |                                                |        |           |                |           |                       |
